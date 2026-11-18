@@ -1,0 +1,1 @@
+{"Logistic Regression": [[41, 1], [1, 71]], "KNN (k=7)": [[39, 3], [0, 72]], "Decision Tree (d=5)": [[39, 3], [6, 66]], "SVM (RBF)": [[41, 1], [1, 71]], "Gaussian NB": [[38, 4], [3, 69]], "Hard Voting": [[40, 2], [1, 71]], "Soft Voting": [[39, 3], [0, 72]], "AdaBoost (stumps)": [[38, 4], [1, 71]], "AdaBoost (depth-2)": [[38, 4], [2, 70]], "Stacking (LR meta)": [[40, 2], [1, 71]]}
